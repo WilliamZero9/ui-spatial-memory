@@ -84,6 +84,7 @@ Each captured map is stored as JSON in the `maps/` directory:
 - Native app support (accessibility tree extraction via platform APIs)
 - Vision model fallback for unlabeled elements
 - Map diffing (detect UI changes between visits)
+- JSON Canvas export for visualizing page maps as spatial graphs in Obsidian
 - Element interaction history tracking
 
 ## License
