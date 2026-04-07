@@ -1,6 +1,6 @@
 # UI Spatial Memory
 
-**Give AI agents a photographic memory for every UI they visit.**
+**Give AI agents a photographic memory for every UI they visit (only on fullscreen).**
 
 ## The Problem
 
